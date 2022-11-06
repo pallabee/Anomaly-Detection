@@ -1,8 +1,10 @@
 # Anomaly-Detection
-Detect faulty machinery through ball bearing vibrations using a classification model on historical vibration data. The data distribution of normal and faulty vibrations vary greatly, so the dataset contains unbalanced data.
+Predict production of faulty parts based on historical data of ball bearing vibrations. Predictive Analysis helps business to:
+- Take necessary corrective actions.
+- Reduce cost as the parts rejection rate can be reduced.
 
 ## Dataset
-- Consists of log data from ERP system and machine data from MES. 
+- Consists of log data from ERP system, machine data (vibration masurements) from MES system. The data distribution of normal and faulty vibrations vary greatly, so the dataset contains unbalanced data.
 
 ## Tasks
 - Data preprocesssing using Windowing, Fast Fourier Transform, Resampling.
