@@ -5,6 +5,7 @@ Detect faulty machinery through ball bearing vibrations using a classification m
 - Consists of log data from ERP system and machine data from MES. 
 
 ## Tasks
-- Feature extraction of sensor data using Hanning Window and Fast Fourier Transform.
+- Data preprocesssing using Windowing, Fast Fourier Transform, Resampling.
+- Feature generation by Spectral Transformation.
 - Handle unbalanced data using oversampling the minority class.
 - Machine learning modelling using a binary classifier.
