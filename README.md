@@ -6,5 +6,5 @@ Detect faulty machinery through ball bearing vibrations using a classification m
 
 ## Tasks
 - Feature extraction of sensor data using Hanning Window and Fast Fourier Transform.
-- Handle unbalanced data using upsampling.
+- Handle unbalanced data using oversampling the minority class.
 - Machine learning modelling using a binary classifier.
