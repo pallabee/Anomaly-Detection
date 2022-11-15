@@ -12,5 +12,5 @@ Predict production of faulty parts based on historical data of ball bearing vibr
 ## Tasks
 - Data preprocesssing using Windowing, Fast Fourier Transform, Resampling.
 - Feature generation by Spectral Transformation.
-- Handle unbalanced data using oversampling the minority class.
+- Handle unbalanced data using oversampling the minority class (SMOTE).
 - Machine learning modelling using a binary classifier.
