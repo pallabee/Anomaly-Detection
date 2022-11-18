@@ -1,5 +1,5 @@
 # Predictive Maintenance using Classification 
-I solved this problem at Paderborn University as part of an assignment.
+I solved this problem at Paderborn University as part of an assignment of Data Science in Industrial Applications module.
 
 ## Problem
 Predict production of faulty parts based on historical data of ball bearing vibrations. Predictive Analysis helps business to:
